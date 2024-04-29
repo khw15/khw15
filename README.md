@@ -1,6 +1,6 @@
 Hi there, I am Faisal A F Rahman 👋
 
-> `Front-end Web dan DevOps Engineer` based in **Sukabumi, Indonesia**.
+`Front-end Web and DevOps Engineer` based in **Sukabumi, Indonesia**.
 
 ### About me 
 - 📕 Student of **Informatics** from Muhammadiyah University of Sukabumi
