@@ -18,6 +18,8 @@ Hi there, I am Faisal A F Rahman 👋
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats:
-![khw15's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khw15&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)<br/>
-![khw15's Streak](https://github-readme-streak-stats.herokuapp.com/?user=khw15&theme=vue-dark&hide_border=true)<br/>
+![khw15's Streak](https://github-readme-streak-stats.herokuapp.com/?user=khw15&theme=vue-dark&hide_border=true)
 ![khw15's Stats](https://github-readme-stats.vercel.app/api?username=khw15&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+
+## 🎧 Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nd7f3184d3csa9mv1sntjtatk&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=nd7f3184d3csa9mv1sntjtatk&redirect=true)
