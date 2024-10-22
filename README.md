@@ -20,6 +20,3 @@ Hi there, I am Faisal A F Rahman 👋
 # 📊 GitHub Stats:
 ![khw15's Streak](https://github-readme-streak-stats.herokuapp.com/?user=khw15&theme=vue-dark&hide_border=true)
 ![khw15's Stats](https://github-readme-stats.vercel.app/api?username=khw15&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
-
-## 🎧 Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nd7f3184d3csa9mv1sntjtatk&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=nd7f3184d3csa9mv1sntjtatk&redirect=true)
